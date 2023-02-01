@@ -1,3 +1,1 @@
-# react-three-js
-
-CSS Pendulum Waves
+# CSS Pendulum Waves
